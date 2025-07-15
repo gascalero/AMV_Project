@@ -1,7 +1,5 @@
 This project involved a comprehensive study to identify key dimensions shaping national innovation and economic performance across European Union (EU) countries. The primary goal was to understand the relationships between technological capacity, human capital development, and economic strength, and how these factors drive competitiveness and development.
 
-Here's a summary of the project:
-
 *   **Objective**: The study aimed to answer two key questions:
     *   What are the most significant dimensions shaping innovation and economic performance in EU countries?
     *   How do these dimensions differentiate countries in terms of competitiveness and development?
